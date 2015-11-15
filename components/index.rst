@@ -22,6 +22,7 @@ for all aspects of e-commerce.
     Inventory/index
     Locale/index
     Mailer/index
+    Metadata/index
     Order/index
     Originator/index
     Payment/index
